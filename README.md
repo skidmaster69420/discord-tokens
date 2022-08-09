@@ -20,18 +20,23 @@ We now wish to answer a few questions that have arisen from the scammers, phishe
 
 ## FAQ
 > Where did you find my token?
+
 This repository is automatically published to by multiple tools and automated scanning processes across the internet.
 
 > Why publish tokens to Github?
+
 Because this is the easiest way to invalidate tokens within Discord’s Terms of Service.
 
 > Why did you "steal" my token?
+
 We did not, we helped you by making it invalid so people that do the same thing as me, but with an malicious intent don't abuse your token
 
 > Will you stop publishing our tokens?
+
 Absolutely not! We very much appreciate legitimate users, hence we’ll continue supporting them with this repository to help them make your life even more miserable!
 
 > I am very mad!
+
 That is not a question, we suggest you go visit grade school again, you might even then actually contribute to society!
 
 ## Thanks
